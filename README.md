@@ -13,3 +13,9 @@ Para instalar cualquier cosa, usamos `sudo apt install` y el repositorio que que
 
 [Enlace de spotify](https://open.spotify.com/intl-es)
 
+- [X] Iniciar sesión en GitHub
+- [X] Crear README
+- [ ] Acabar README
+- [ ] Enviar README
+
+@Alvaroto1234
