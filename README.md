@@ -41,6 +41,11 @@ Imatge del projecte
 - [ ] Instal·lar Apache
 - [ ] Realitzar probes
 
+@Alvaroto1234
+
+:pray:
+
+
 @tobiaskirk
 
 
