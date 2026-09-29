@@ -13,4 +13,4 @@ Para instalar cualquier cosa, usamos `sudo apt install` y el repositorio que que
 
 [Enlace de la instalación de spotify](hola)
 
-@lluismj
+@ lluismj
