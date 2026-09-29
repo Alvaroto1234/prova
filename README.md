@@ -10,3 +10,6 @@
 1. Instal·lació
 
 Para instalar cualquier cosa, usamos `sudo apt install` y el repositorio que queramos instalar
+
+
+
